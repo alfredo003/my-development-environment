@@ -1,5 +1,7 @@
 # My Development Environment
 
+![VSCode Sourcegraph Extension](https://sourcegraphstatic.com/blog/vs-code-extension/sourcegraph-vs-code-extension.png)
+
 In this repository, I share the tools and technologies I use in my development environment. These choices were made based on productivity, ease of configuration, and support for my development stack. Below, I describe the main tools I use:
 
 ## Visual Studio Code (VSCode)
